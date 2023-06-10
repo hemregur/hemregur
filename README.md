@@ -1,4 +1,4 @@
- /*[![MasterHead](https://cutewallpaper.org/21/binary-code-wallpaper/61+-Binary-Code-Wallpapers-on-WallpaperPlay.jpg)*/
+ /*[![MasterHead](#)*/
 <h1 align="center">Hi 👋, I'm Emre GÜR</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
