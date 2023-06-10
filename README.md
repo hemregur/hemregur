@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemregur&" alt="hemregur" /></p>
 
-![snake gif](https://github.com/hemregur/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hemregur/blob/output/github-contribution-grid-snake.gif)
