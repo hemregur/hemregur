@@ -1,4 +1,4 @@
- /*[![MasterHead](https://pbs.twimg.com/profile_banners/4632700335/1457367305/1500x500)*/
+ [![MasterHead](https://pbs.twimg.com/profile_banners/4632700335/1457367305/1500x500) 
 <h1 align="center">Hi 👋, I'm Emre GÜR</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
